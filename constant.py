@@ -1,2 +1,3 @@
 API_TOKEN = ""
-CHAT_ID = ""
+DBNAME = "./Database/history_user.db"
+DBQUOTES = "./Database/quotes.db"
